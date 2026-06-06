@@ -1,0 +1,25 @@
+{
+    "app_info": {
+        "app_version": "2.0.2",
+        "last_updated": "2024-01-15T10:30:00Z",
+        "version": "1.0"
+    },
+    "social": {
+        "telegram_channel_link": "https://t.me/NetStreamfree",
+        "share_text": "Check out NetStream - the best free streaming app! Watch thousands of channels for free.",
+        "share_url": "https://t.me/NetStreamfree"
+    },
+    "monetization": {
+        "donate_link": "https://paypal.me/yourpaypal",
+        "unity_app_id": "5912403",
+        "adUnitId": "Interstitial_Android",
+        "adsInterval": 4
+    },
+    "streams": {
+        "show_all_channels": true,
+        "all_channels_m3u_url": "https://raw.githubusercontent.com/netstreamfree/netstream/main/channels.m3u",
+        "trending_m3u_url": "https://raw.githubusercontent.com/netstreamfree/netstream/main/trending.m3u",
+        "category_m3u_url": "https://iptv-org.github.io/iptv/index.category.m3u",
+        "country_m3u_url": "https://iptv-org.github.io/iptv/index.country.m3u"
+    }
+}
