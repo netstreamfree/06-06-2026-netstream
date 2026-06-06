@@ -3,20 +3,20 @@
         {
             "name": "CNN",
             "category": "News",
-            "logo": "https://raw.githubusercontent.com/netstreamfree/netstream/main/logos/cnn.png",
+            "logo": "https://i.ibb.co/LdCxbzpw/download-removebg-preview.png",
             "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
         },
         {
             "name": "BBC World",
             "category": "News",
-            "logo": "https://raw.githubusercontent.com/netstreamfree/netstream/main/logos/bbc.png",
-            "embed_url": "https://ntv.cx/embed?t=REPLACE_WITH_ACTUAL_TOKEN"
+            "logo": "https://i.ibb.co/LdCxbzpw/download-removebg-preview.png",
+            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
         },
         {
             "name": "ESPN",
             "category": "Sports",
-            "logo": "https://raw.githubusercontent.com/netstreamfree/netstream/main/logos/espn.png",
-            "embed_url": "https://ntv.cx/embed?t=REPLACE_WITH_ACTUAL_TOKEN"
+            "logo": "https://i.ibb.co/LdCxbzpw/download-removebg-preview.png",
+            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
         }
     ]
 }
