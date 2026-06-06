@@ -1,7 +1,7 @@
 {
     "channels": [
         {
-            "name": "CNN",
+            "name": "rCNN",
             "category": "News",
             "logo": "https://i.ibb.co/LdCxbzpw/download-removebg-preview.png",
             "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
@@ -13,7 +13,7 @@
             "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
         },
         {
-            "name": "ESPN",
+            "name": "ESN",
             "category": "Sports",
             "logo": "https://i.ibb.co/LdCxbzpw/download-removebg-preview.png",
             "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
