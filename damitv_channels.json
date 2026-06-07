@@ -1,0 +1,22 @@
+{
+    "damitv_channels": [
+        {
+            "name": "SuperSport Premier League",
+            "slug": "supersport-premier-league",
+            "category": "Premium Sports",
+            "logo": "https://example.com/logos/ss_pl.png"
+        },
+        {
+            "name": "Sky Sports Main Event",
+            "slug": "sky-sports-main-event",
+            "category": "Premium Sports",
+            "logo": "https://example.com/logos/sky_main.png"
+        },
+        {
+            "name": "CNN International",
+            "slug": "cnn-international",
+            "category": "News",
+            "logo": "https://example.com/logos/cnn.png"
+        }
+    ]
+}
