@@ -21,6 +21,7 @@
         "trending_m3u_url": "https://raw.githubusercontent.com/netstreamfree/netstream/main/trending.m3u",
         "category_m3u_url": "https://iptv-org.github.io/iptv/index.category.m3u",
         "country_m3u_url": "https://iptv-org.github.io/iptv/index.country.m3u",
-        "embeds_json_url": "https://raw.githubusercontent.com/netstreamfree/06-06-2026-netstream/main/embeds.json"
+        "embeds_json_url": "https://raw.githubusercontent.com/netstreamfree/06-06-2026-netstream/main/embeds.json",
+        "damitv_json_url": "https://raw.githubusercontent.com/netstreamfree/06-06-2026-netstream/main/damitv_channels.json"
     }
 }
