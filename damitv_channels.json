@@ -1,22 +1,406 @@
 {
     "damitv_channels": [
         {
-            "name": "Cartoon Network",
-            "slug": "cartoon-network",
-            "category": "Kids",
-            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png"
+            "slug": "dazn-1-uk",
+            "name": "DAZN 1 UK",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/dazn_1_uk.png"
         },
         {
-            "name": "Disney jr",
-            "slug": "disney-jr",
-            "category": "kids",
-            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png"
+            "slug": "laligatv-uk",
+            "name": "LaLigaTV UK",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/laligatv_uk.png"
         },
         {
-            "name": "Disney-channel",
-            "slug": "disney-channel",
-            "category": "kids",
-            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png"
+            "slug": "racing-tv-uk",
+            "name": "Racing Tv UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png"
+        },
+        {
+            "slug": "sky-sports-action-uk",
+            "name": "Sky Sports Action UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png"
+        },
+        {
+            "slug": "sky-sports-cricket",
+            "name": "Sky Sports Cricket",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png"
+        },
+        {
+            "slug": "sky-sports-f1-uk",
+            "name": "Sky Sports F1 UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png"
+        },
+        {
+            "slug": "sky-sports-football-uk",
+            "name": "Sky Sports Football UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png"
+        },
+        {
+            "slug": "sky-sports-golf-uk",
+            "name": "Sky Sports Golf UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png"
+        },
+        {
+            "slug": "sky-sports-mix-uk",
+            "name": "Sky Sports MIX UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png"
+        },
+        {
+            "slug": "sky-sports-main-event",
+            "name": "Sky Sports Main Event",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png"
+        },
+        {
+            "slug": "sky-sports-news-uk",
+            "name": "Sky Sports News UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png"
+        },
+        {
+            "slug": "sky-sports-racing-uk",
+            "name": "Sky Sports Racing UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png"
+        },
+        {
+            "slug": "sky-sports-tennis-uk",
+            "name": "Sky Sports Tennis UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png"
+        },
+        {
+            "slug": "sky-sports-plus",
+            "name": "Sky Sports+ Plus",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-plus-hd-hz-uk.png"
+        },
+        {
+            "slug": "sky-sports-premier-league",
+            "name": "Sky sports Premier League",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png"
+        },
+        {
+            "slug": "tnt-sports-1-uk",
+            "name": "TNT Sports 1 UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png"
+        },
+        {
+            "slug": "tnt-sports-2-uk",
+            "name": "TNT Sports 2 UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png"
+        },
+        {
+            "slug": "tnt-sports-3-uk",
+            "name": "TNT Sports 3 UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png"
+        },
+        {
+            "slug": "tnt-sports-4-uk",
+            "name": "TNT Sports 4 UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png"
+        },
+        {
+            "slug": "viaplay-sports-1-uk",
+            "name": "Viaplay Sports 1 UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-uk.png"
+        },
+        {
+            "slug": "viaplay-sports-2-uk",
+            "name": "Viaplay Sports 2 UK",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-uk.png"
+        },
+        {
+            "slug": "5-usa",
+            "name": "5 USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-5-uk.png"
+        },
+        {
+            "slug": "bbc-four-uk",
+            "name": "BBC Four UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png"
+        },
+        {
+            "slug": "bbc-one-uk",
+            "name": "BBC One UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png"
+        },
+        {
+            "slug": "bbc-three-uk",
+            "name": "BBC Three UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png"
+        },
+        {
+            "slug": "bbc-two-uk",
+            "name": "BBC Two UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png"
+        },
+        {
+            "slug": "channel-4-uk",
+            "name": "Channel 4 UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png"
+        },
+        {
+            "slug": "channel-5-uk",
+            "name": "Channel 5 UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png"
+        },
+        {
+            "slug": "e4-channel",
+            "name": "E4 Channel",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/e4_channel.png"
+        },
+        {
+            "slug": "film4-uk",
+            "name": "Film4 UK",
+            "category": "Movies",
+            "logo": "https://dlhd.pk/logos/film4_uk.png"
+        },
+        {
+            "slug": "gold-uk",
+            "name": "Gold UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gold-uk.png"
+        },
+        {
+            "slug": "itv-1-uk",
+            "name": "ITV 1 UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png"
+        },
+        {
+            "slug": "itv-2-uk",
+            "name": "ITV 2 UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png"
+        },
+        {
+            "slug": "itv-3-uk",
+            "name": "ITV 3 UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png"
+        },
+        {
+            "slug": "itv-4-uk",
+            "name": "ITV 4 UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png"
+        },
+        {
+            "slug": "itvbe",
+            "name": "ITVBE",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/itvbe.png"
+        },
+        {
+            "slug": "liverpool-tv-lfc-tv",
+            "name": "Liverpool TV (LFC TV)",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/liverpool_tv_lfc_tv.png"
+        },
+        {
+            "slug": "sky-cinema-action-uk",
+            "name": "Sky Cinema Action UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png"
+        },
+        {
+            "slug": "sky-cinema-animation-uk",
+            "name": "Sky Cinema Animation UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png"
+        },
+        {
+            "slug": "sky-cinema-comedy-uk",
+            "name": "Sky Cinema Comedy UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png"
+        },
+        {
+            "slug": "sky-cinema-drama-uk",
+            "name": "Sky Cinema Drama UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-drama-uk.png"
+        },
+        {
+            "slug": "sky-cinema-family-uk",
+            "name": "Sky Cinema Family UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png"
+        },
+        {
+            "slug": "sky-cinema-greats-uk",
+            "name": "Sky Cinema Greats UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png"
+        },
+        {
+            "slug": "sky-cinema-hits-uk",
+            "name": "Sky Cinema Hits UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png"
+        },
+        {
+            "slug": "sky-cinema-premiere-uk",
+            "name": "Sky Cinema Premiere UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png"
+        },
+        {
+            "slug": "sky-cinema-sci-fi-horror-uk",
+            "name": "Sky Cinema Sci-Fi Horror UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png"
+        },
+        {
+            "slug": "sky-cinema-select-uk",
+            "name": "Sky Cinema Select UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png"
+        },
+        {
+            "slug": "sky-cinema-thriller-uk",
+            "name": "Sky Cinema Thriller UK",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png"
+        },
+        {
+            "slug": "sky-comedy-uk",
+            "name": "Sky Comedy UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png"
+        },
+        {
+            "slug": "sky-crime",
+            "name": "Sky Crime",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-crime-uk.png"
+        },
+        {
+            "slug": "sky-history",
+            "name": "Sky History",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-history-uk.png"
+        },
+        {
+            "slug": "sky-max-uk",
+            "name": "Sky MAX UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-max-uk.png"
+        },
+        {
+            "slug": "sky-showcase-uk",
+            "name": "Sky Showcase UK",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png"
+        },
+        {
+            "slug": "sky-witness-hd",
+            "name": "Sky Witness HD",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-witness-hd-uk.png"
+        },
+        {
+            "slug": "bein-sports-hd-qatar",
+            "name": "BeIN Sports HD Qatar",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-1-arabic",
+            "name": "beIN Sports 1 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-2-arabic",
+            "name": "beIN Sports 2 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-3-arabic",
+            "name": "beIN Sports 3 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-4-arabic",
+            "name": "beIN Sports 4 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-5-arabic",
+            "name": "beIN Sports 5 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-6-arabic",
+            "name": "beIN Sports 6 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-7-arabic",
+            "name": "beIN Sports 7 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-8-arabic",
+            "name": "beIN Sports 8 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-9-arabic",
+            "name": "beIN Sports 9 Arabic",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-mena-english-1",
+            "name": "beIN Sports MENA English 1",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-mena-english-2",
+            "name": "beIN Sports MENA English 2",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "bein-sports-mena-english",
+            "name": "beIN Sports MENA English",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
         }
     ]
 }
