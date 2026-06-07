@@ -401,6 +401,864 @@
             "name": "beIN Sports MENA English",
             "category": "Premium Sports",
             "logo": "https://i.ibb.co/tMXqqvGC/bein-sports.jpg"
+        },
+        {
+            "slug": "altitude-sports",
+            "name": "Altitude Sports",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/altitude-sports-us.png"
+        },
+        {
+            "slug": "bein-sports-usa",
+            "name": "BeIN SPORTS USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png"
+        },
+        {
+            "slug": "cbs-sports-golazo",
+            "name": "CBS Sports Golazo",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-golazo-network-us.png"
+        },
+        {
+            "slug": "cbs-sports-network-cbssn",
+            "name": "CBS Sports Network (CBSSN)",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png"
+        },
+        {
+            "slug": "chicago-sports-network",
+            "name": "Chicago Sports Network",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/chicago_sports_network.png"
+        },
+        {
+            "slug": "espn-deportes",
+            "name": "ESPN Deportes",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png"
+        },
+        {
+            "slug": "espn-usa",
+            "name": "ESPN USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png"
+        },
+        {
+            "slug": "espn2-usa",
+            "name": "ESPN2 USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png"
+        },
+        {
+            "slug": "espnu-usa",
+            "name": "ESPNU USA",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/espnu_usa.png"
+        },
+        {
+            "slug": "espnews",
+            "name": "ESPNews",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png"
+        },
+        {
+            "slug": "fanduel-sports-network-arizona",
+            "name": "FanDuel Sports Network Arizona",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_arizona.png"
+        },
+        {
+            "slug": "fanduel-sports-network-detroit",
+            "name": "FanDuel Sports Network Detroit",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_detroit.png"
+        },
+        {
+            "slug": "fanduel-sports-network-florida",
+            "name": "FanDuel Sports Network Florida",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_florida.png"
+        },
+        {
+            "slug": "fanduel-sports-network-great-lakes",
+            "name": "FanDuel Sports Network Great Lakes",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_great_lakes.png"
+        },
+        {
+            "slug": "fanduel-sports-network-indiana",
+            "name": "FanDuel Sports Network Indiana",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_indiana.png"
+        },
+        {
+            "slug": "fanduel-sports-network-kansas-city",
+            "name": "FanDuel Sports Network Kansas City",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_kansas_city.png"
+        },
+        {
+            "slug": "fanduel-sports-network-midwest",
+            "name": "FanDuel Sports Network Midwest",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_midwest.png"
+        },
+        {
+            "slug": "fanduel-sports-network-new-orleans",
+            "name": "FanDuel Sports Network New Orleans",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_new_orleans.png"
+        },
+        {
+            "slug": "fanduel-sports-network-north",
+            "name": "FanDuel Sports Network North",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_north.png"
+        },
+        {
+            "slug": "fanduel-sports-network-ohio",
+            "name": "FanDuel Sports Network Ohio",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_ohio.png"
+        },
+        {
+            "slug": "fanduel-sports-network-oklahoma",
+            "name": "FanDuel Sports Network Oklahoma",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_oklahoma.png"
+        },
+        {
+            "slug": "fanduel-sports-network-socal",
+            "name": "FanDuel Sports Network SoCal",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_socal.png"
+        },
+        {
+            "slug": "fanduel-sports-network-south",
+            "name": "FanDuel Sports Network South",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_south.png"
+        },
+        {
+            "slug": "fanduel-sports-network-southeast",
+            "name": "FanDuel Sports Network Southeast",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_southeast.png"
+        },
+        {
+            "slug": "fanduel-sports-network-sun",
+            "name": "FanDuel Sports Network Sun",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_sun.png"
+        },
+        {
+            "slug": "fanduel-sports-network-west",
+            "name": "FanDuel Sports Network West",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_west.png"
+        },
+        {
+            "slug": "fanduel-sports-network-wisconsin",
+            "name": "FanDuel Sports Network Wisconsin",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/fanduel_sports_network_wisconsin.png"
+        },
+        {
+            "slug": "fox-sports-1-usa",
+            "name": "Fox Sports 1 USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png"
+        },
+        {
+            "slug": "fox-sports-2-usa",
+            "name": "Fox Sports 2 USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png"
+        },
+        {
+            "slug": "golf-channel-usa",
+            "name": "GOLF Channel USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-channel-us.png"
+        },
+        {
+            "slug": "mlb-network-usa",
+            "name": "MLB Network USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png"
+        },
+        {
+            "slug": "marquee-sports-network",
+            "name": "Marquee Sports Network",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png"
+        },
+        {
+            "slug": "monumental-sports-network",
+            "name": "Monumental Sports Network",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/monumental-sports-network-us.png"
+        },
+        {
+            "slug": "nba-tv-usa",
+            "name": "NBA TV USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png"
+        },
+        {
+            "slug": "nbc-sports-bay-area",
+            "name": "NBC Sports Bay Area",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/nbc_sports_bay_area.png"
+        },
+        {
+            "slug": "nbc-sports-boston",
+            "name": "NBC Sports Boston",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/nbc_sports_boston.png"
+        },
+        {
+            "slug": "nbc-sports-california",
+            "name": "NBC Sports California",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/SSJ0QKw/NBC-Sports-California.jpg"
+        },
+        {
+            "slug": "nbc-sports-philadelphia",
+            "name": "NBC Sports Philadelphia",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/nbc_sports_philadelphia.png"
+        },
+        {
+            "slug": "nfl-network",
+            "name": "NFL Network",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png"
+        },
+        {
+            "slug": "nfl-redzone",
+            "name": "NFL RedZone",
+            "category": "Premium Sports",
+            "logo": "https://i.ibb.co/LDvRT5vn/NFL-Red-Zone.jpg"
+        },
+        {
+            "slug": "nhl-network-usa",
+            "name": "NHL Network USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png"
+        },
+        {
+            "slug": "root-sports-northwest",
+            "name": "Root Sports Northwest",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/root_sports_northwest.png"
+        },
+        {
+            "slug": "spectrum-sportsnet-usa",
+            "name": "Spectrum SportsNet USA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png"
+        },
+        {
+            "slug": "spectrum-sportsnet-la",
+            "name": "Spectrum Sportsnet LA",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-la-us.png"
+        },
+        {
+            "slug": "sportsnet-new-york-sny",
+            "name": "SportsNet New York (SNY)",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sny-us.png"
+        },
+        {
+            "slug": "sportsnet-pittsburgh",
+            "name": "SportsNet Pittsburgh",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png"
+        },
+        {
+            "slug": "tennis-channel",
+            "name": "Tennis Channel",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png"
+        },
+        {
+            "slug": "willow-cricket",
+            "name": "Willow Cricket",
+            "category": "Premium Sports",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-us.png"
+        },
+        {
+            "slug": "willow-xtra",
+            "name": "Willow XTRA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-xtra-us.png"
+        },
+        {
+            "slug": "a-e-usa",
+            "name": "A&E USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-4-wtae-us.png"
+        },
+        {
+            "slug": "amc-usa",
+            "name": "AMC USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png"
+        },
+        {
+            "slug": "axs-tv-usa",
+            "name": "AXS TV USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png"
+        },
+        {
+            "slug": "adult-swim",
+            "name": "Adult Swim",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png"
+        },
+        {
+            "slug": "animal-planet",
+            "name": "Animal Planet",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png"
+        },
+        {
+            "slug": "antenna-tv-usa",
+            "name": "Antenna TV USA",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/antenna_tv_usa.png"
+        },
+        {
+            "slug": "bbc-america-bbca",
+            "name": "BBC America (BBCA)",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png"
+        },
+        {
+            "slug": "bet-usa",
+            "name": "BET USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"
+        },
+        {
+            "slug": "big-ten-network-btn-usa",
+            "name": "BIG TEN Network (BTN USA)",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/btn-us.png"
+        },
+        {
+            "slug": "boomerang",
+            "name": "Boomerang",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png"
+        },
+        {
+            "slug": "bravo-usa",
+            "name": "Bravo USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png"
+        },
+        {
+            "slug": "c-span-1",
+            "name": "C SPAN 1",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/c-span-1-us.png"
+        },
+        {
+            "slug": "cbs-usa",
+            "name": "CBS USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-kcbs-us.png"
+        },
+        {
+            "slug": "cbsny-usa",
+            "name": "CBSNY USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sny-us.png"
+        },
+        {
+            "slug": "cmt-usa",
+            "name": "CMT USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png"
+        },
+        {
+            "slug": "cnbc-usa",
+            "name": "CNBC USA",
+            "category": "News",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png"
+        },
+        {
+            "slug": "cnn-usa",
+            "name": "CNN USA",
+            "category": "News",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"
+        },
+        {
+            "slug": "cozi-tv-usa",
+            "name": "COZI TV USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png"
+        },
+        {
+            "slug": "cw-pix-11-usa",
+            "name": "CW PIX 11 USA",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/cw_pix_11_usa.png"
+        },
+        {
+            "slug": "cw-usa",
+            "name": "CW USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png"
+        },
+        {
+            "slug": "cartoon-network",
+            "name": "Cartoon Network",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png"
+        },
+        {
+            "slug": "cinemax-usa",
+            "name": "Cinemax USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png"
+        },
+        {
+            "slug": "cleo-tv",
+            "name": "Cleo TV",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cleo-tv-us.png"
+        },
+        {
+            "slug": "comedy-central",
+            "name": "Comedy Central",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png"
+        },
+        {
+            "slug": "comet-usa",
+            "name": "Comet USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png"
+        },
+        {
+            "slug": "cooking-channel-usa",
+            "name": "Cooking Channel USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png"
+        },
+        {
+            "slug": "court-tv-usa",
+            "name": "Court TV USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/court-tv-us.png"
+        },
+        {
+            "slug": "crime-investigation-usa",
+            "name": "Crime+ Investigation USA",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/crime_investigation_usa.png"
+        },
+        {
+            "slug": "destination-america",
+            "name": "Destination America",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png"
+        },
+        {
+            "slug": "discovery-channel",
+            "name": "Discovery Channel",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png"
+        },
+        {
+            "slug": "discovery-family",
+            "name": "Discovery Family",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png"
+        },
+        {
+            "slug": "discovery-life-channel",
+            "name": "Discovery Life Channel",
+            "category": "Entertainment",
+            "logo": "https://i.ibb.co/rGDCFVGX/Discovery-Life-Channel.png"
+        },
+        {
+            "slug": "disney-channel",
+            "name": "Disney Channel",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png"
+        },
+        {
+            "slug": "disney-jr",
+            "name": "Disney JR",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png"
+        },
+        {
+            "slug": "disney-xd",
+            "name": "Disney XD",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png"
+        },
+        {
+            "slug": "e-entertainment-television",
+            "name": "E! Entertainment Television",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/e_entertainment_television.png"
+        },
+        {
+            "slug": "fox-deportes-usa",
+            "name": "FOX Deportes USA",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/fox_deportes_usa.png"
+        },
+        {
+            "slug": "fox-soccer-plus",
+            "name": "FOX Soccer Plus",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png"
+        },
+        {
+            "slug": "fox-usa",
+            "name": "FOX USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png"
+        },
+        {
+            "slug": "foxny-usa",
+            "name": "FOXNY USA",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/foxny_usa.png"
+        },
+        {
+            "slug": "fx-usa",
+            "name": "FX USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png"
+        },
+        {
+            "slug": "fxx-usa",
+            "name": "FXX USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png"
+        },
+        {
+            "slug": "fyi",
+            "name": "FYI",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png"
+        },
+        {
+            "slug": "fox-business",
+            "name": "Fox Business",
+            "category": "News",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png"
+        },
+        {
+            "slug": "fox-news",
+            "name": "Fox News",
+            "category": "News",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png"
+        },
+        {
+            "slug": "freeform",
+            "name": "Freeform",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png"
+        },
+        {
+            "slug": "goltv-usa",
+            "name": "GOLTV USA",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/goltv_usa.png"
+        },
+        {
+            "slug": "hbo-comedy-usa",
+            "name": "HBO Comedy USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png"
+        },
+        {
+            "slug": "hbo-family-usa",
+            "name": "HBO Family USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png"
+        },
+        {
+            "slug": "hbo-latino-usa",
+            "name": "HBO Latino USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-latino-us.png"
+        },
+        {
+            "slug": "hbo-signature-usa",
+            "name": "HBO Signature USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/hbo-signature-hd-us.png"
+        },
+        {
+            "slug": "hbo-usa",
+            "name": "HBO USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png"
+        },
+        {
+            "slug": "hbo-zone-usa",
+            "name": "HBO Zone USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/hbo-zone-hd-us.png"
+        },
+        {
+            "slug": "hbo2-usa",
+            "name": "HBO2 USA",
+            "category": "Movies",
+            "logo": "https://dlhd.pk/logos/hbo2_usa.png"
+        },
+        {
+            "slug": "hgtv",
+            "name": "HGTV",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png"
+        },
+        {
+            "slug": "history-usa",
+            "name": "History USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-history-us.png"
+        },
+        {
+            "slug": "ifc-tv-usa",
+            "name": "IFC TV USA",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/ifc_tv_usa.png"
+        },
+        {
+            "slug": "ion-usa",
+            "name": "ION USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png"
+        },
+        {
+            "slug": "investigation-discovery-id-usa",
+            "name": "Investigation Discovery (ID USA)",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"
+        },
+        {
+            "slug": "lifetime-movies-network",
+            "name": "Lifetime Movies Network",
+            "category": "Movies",
+            "logo": "https://i.ibb.co/MD7ZHKrG/Lifetime-Network.jpg"
+        },
+        {
+            "slug": "lifetime-network",
+            "name": "Lifetime Network",
+            "category": "Entertainment",
+            "logo": "https://i.ibb.co/MD7ZHKrG/Lifetime-Network.jpg"
+        },
+        {
+            "slug": "nick",
+            "name": "NICK",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png"
+        },
+        {
+            "slug": "nick-jr",
+            "name": "NICK JR",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png"
+        },
+        {
+            "slug": "nat-geo-wild-usa",
+            "name": "Nat Geo Wild USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png"
+        },
+        {
+            "slug": "national-geographic-ngc",
+            "name": "National Geographic (NGC)",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/national_geographic_ngc.png"
+        },
+        {
+            "slug": "nick-music",
+            "name": "Nick Music",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-music-us.png"
+        },
+        {
+            "slug": "nicktoons",
+            "name": "Nicktoons",
+            "category": "Kids",
+            "logo": "https://dlhd.pk/logos/nicktoons.png"
+        },
+        {
+            "slug": "oprah-winfrey-network-own",
+            "name": "Oprah Winfrey Network (OWN)",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/oprah_winfrey_network_own.png"
+        },
+        {
+            "slug": "outdoor-channel-usa",
+            "name": "Outdoor Channel USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png"
+        },
+        {
+            "slug": "oxygen-true-crime",
+            "name": "Oxygen True Crime",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-true-crime-us.png"
+        },
+        {
+            "slug": "paramount-network",
+            "name": "Paramount Network",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png"
+        },
+        {
+            "slug": "syfy-usa",
+            "name": "SYFY USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png"
+        },
+        {
+            "slug": "science-channel",
+            "name": "Science Channel",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/science_channel.png"
+        },
+        {
+            "slug": "showtime-2-usa-sho2-usa",
+            "name": "Showtime 2 USA (SHO2) USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png"
+        },
+        {
+            "slug": "showtime-extreme-usa",
+            "name": "Showtime Extreme USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png"
+        },
+        {
+            "slug": "showtime-family-zone-sho-family-zone-usa",
+            "name": "Showtime Family Zone (SHO Family Zone) USA",
+            "category": "Movies",
+            "logo": "https://dlhd.pk/logos/showtime_family_zone_sho_family_zone_usa.png"
+        },
+        {
+            "slug": "showtime-next-sho-next-usa",
+            "name": "Showtime Next (SHO Next) USA",
+            "category": "Movies",
+            "logo": "https://dlhd.pk/logos/showtime_next_sho_next_usa.png"
+        },
+        {
+            "slug": "showtime-shoxbet-usa",
+            "name": "Showtime SHOxBET USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png"
+        },
+        {
+            "slug": "showtime-showcase-usa",
+            "name": "Showtime Showcase USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png"
+        },
+        {
+            "slug": "showtime-usa",
+            "name": "Showtime USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png"
+        },
+        {
+            "slug": "showtime-women-usa",
+            "name": "Showtime Women USA",
+            "category": "Movies",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png"
+        },
+        {
+            "slug": "sundance-tv",
+            "name": "Sundance TV",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png"
+        },
+        {
+            "slug": "tbs-usa",
+            "name": "TBS USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png"
+        },
+        {
+            "slug": "tcm-usa",
+            "name": "TCM USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png"
+        },
+        {
+            "slug": "tlc",
+            "name": "TLC",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png"
+        },
+        {
+            "slug": "tnt-usa",
+            "name": "TNT USA",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png"
+        },
+        {
+            "slug": "teennick",
+            "name": "TeenNick",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png"
+        },
+        {
+            "slug": "telemundo",
+            "name": "Telemundo",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png"
+        },
+        {
+            "slug": "the-food-network",
+            "name": "The Food Network",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png"
+        },
+        {
+            "slug": "travel-channel",
+            "name": "Travel Channel",
+            "category": "Entertainment",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png"
+        },
+        {
+            "slug": "trutv-usa",
+            "name": "TruTV USA",
+            "category": "Entertainment",
+            "logo": "https://i.ibb.co/8gdX0SM8/Tru-TV-USA.jpg"
+        },
+        {
+            "slug": "usa-network",
+            "name": "USA Network",
+            "category": "Entertainment",
+            "logo": "https://dlhd.pk/logos/usa_network.png"
+        },
+        {
+            "slug": "universal-kids-usa",
+            "name": "Universal Kids USA",
+            "category": "Kids",
+            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png"
+        },
+        {
+            "slug": "wwe-network",
+            "name": "WWE Network",
+            "category": "Premium Sports",
+            "logo": "https://dlhd.pk/logos/wwe_network.png"
         }
     ]
 }
