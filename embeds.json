@@ -1,21 +1,21 @@
 {
     "channels": [
         {
-            "name": "rCNN",
-            "category": "News",
-            "logo": "https://github.com/netstreamfree/channel-logos/blob/main/azam.jpg",
-            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
-        },
-        {
-            "name": "BBC World",
-            "category": "News",
-            "logo": "https://i.ibb.co/LdCxbzpw/download-removebg-preview.png",
-            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
-        },
-        {
-            "name": "ESN",
+            "name": "AzamSports 1",
             "category": "Sports",
-            "logo": "https://i.ibb.co/LdCxbzpw/download-removebg-preview.png",
+            "logo": "https://i.ibb.co/21k7CfQK/azam.jpg",
+            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
+        },
+        {
+            "name": "AzamSports 2",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/21k7CfQK/azam.jpg",
+            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
+        },
+        {
+            "name": "AzamSports 3",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/21k7CfQK/azam.jpg",
             "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
         }
     ]
