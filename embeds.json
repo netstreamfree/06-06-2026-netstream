@@ -4,19 +4,121 @@
             "name": "AzamSports 1",
             "category": "Sports",
             "logo": "https://i.ibb.co/21k7CfQK/azam.jpg",
-            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
         },
         {
             "name": "AzamSports 2",
             "category": "Sports",
             "logo": "https://i.ibb.co/21k7CfQK/azam.jpg",
-            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvK1Zwd3hWdUk1M3YvcFJHT3NUWHMzQQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
         },
         {
             "name": "AzamSports 3",
             "category": "Sports",
             "logo": "https://i.ibb.co/21k7CfQK/azam.jpg",
-            "embed_url": "https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOG51dmFhNThRc2N6aURweDEzUjBUWg~~"
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOTRrMm9ZM3ZZdzhOUDJmS0J1aTFkVw~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "beIN SPORTS US",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/gnqhGx5/bein-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvK1JDQ0VVK0JBZ1k4bmQ5dHpYaG5yTVl2ZVBBT29ORnFvR05PSlJYTm5pMVE9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "USA NET EAST",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/Ld2687cM/usa-Network.png",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOWdEbVNWT1hDYk5ZWG1jdkZGclNQYQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 1",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN2tWMGE5STh5V0R2NHB2MENseDJNWkE9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 2",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN1V5TmxNekE3cVlzeUt3Z2NtL29lYkE9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 3",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN3kyS2tpakI2clYxYVFXUUVDTE9uVnc9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 4",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN1A2TnNrSzdIbysrYzR3M2EyRlRuNmc9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 5",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN1RJOGYzYTZjczJVbE9IYXBUdDE5UlE9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 6",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN0VOV3hUMGFoSHF5cTIyUWpYZHlzanc9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 7",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN1VPeU84L0dpRnBhdTNIL0lvbytQZXc9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 8",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN1NYTjArQy9nVm93aXE0cHFHaFlHZnc9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "COSMOTE SPORT 9",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/fYpjgDdw/cosmote-sports.jpg",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOU5CZnREdDBVTFh1OWJNVXZEdjlIN28wRnJ0OWl4N3h6MmNmU2h3cHB6NEE9PQ~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "NOVASPORTS 1",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/xScPdk2Y/download.png",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOFo5K2I4MWdPWHgvSVZxZDB3YnNjSw~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "NOVASPORTS 2",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/xScPdk2Y/download.png",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOXpHMkFVUlIzLzQxK2wyU0dYa0RDYg~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "NOVASPORTS 3",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/xScPdk2Y/download.png",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvKzBmYUwwUHplTENiaS9Bd0xPTy9XeA~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "NOVASPORTS 4",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/xScPdk2Y/download.png",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOTZRcWlta0tJN3hoT0JRdENiQ2VKQg~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "NOVASPORTS 5",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/xScPdk2Y/download.png",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOWJ0UlV4ZDh3eCsxM2IrbGRHLzRhdw~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        {
+            "name": "NOVASPORTS 6",
+            "category": "Sports",
+            "logo": "https://i.ibb.co/xScPdk2Y/download.png",
+            "embed_url": "<iframe src=\"https://ntv.cx/embed?t=OFd0cFZIcCtUQ3NleURxSUs1SW9VTHRKb2tpMjlQWXN2Y29SM2E0UDdvOWsrcExhQzlKMG5RajJkbjNvcUlhbA~~\" width=\"100%\" height=\"450\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
         }
     ]
 }
